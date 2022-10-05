@@ -1,5 +1,6 @@
-
 # @stencil-community/router
+
+Big Cartel fork of the @stencil-community/router. Intended to be temporary and merge streams with the main one.
 
 Stencil Router V2 is an experimental new router for stencil that focus in:
 
