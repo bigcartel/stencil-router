@@ -1,5 +1,5 @@
 {
-  "name": "@bigcartel/stencilrouter",
+  "name": "@bigcartel/stencil-router",
   "version": "2.0.0",
   "description": "Router based in @stencil/store",
   "main": "dist/index.cjs.js",
